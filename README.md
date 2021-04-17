@@ -1,5 +1,5 @@
 # pytorch-notebooks
-This is pytorch notebooks, Implementation of  GAN (generative adversarial network )  using  deep neural networks, generating MNIST digits and human faces using GAN.
+These are pytorch notebooks, Implementation of  GAN (generative adversarial network )  using  deep neural networks, generating MNIST digits and human faces using GAN.
   * 1st notebook file contains tensor-operations
   * 2nd notebook file Insurance cost prediction using linear regression. 
   * 3rd notebook file is Classifying images of everyday objects using a neural network (CNN). 
